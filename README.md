@@ -1,2 +1,17 @@
 # RFactor
-A Factor interpreter with REPL written in Haskell
+
+### What is this?
+A [Factor](http://factorcode.org/) interpreter with REPL written in [Haskell](https://www.haskell.org/).
+
+### How to use?
+Run:
+
+```bash
+cabal install parsec
+
+cd RFactor/
+
+ghc FactorMain.hs
+
+./FactorMain
+```
