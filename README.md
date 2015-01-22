@@ -9,7 +9,7 @@ Run:
 ```bash
 cabal install parsec
 
-cd RFactor/
+cd RFactor/src
 
 ghc FactorMain.hs
 
